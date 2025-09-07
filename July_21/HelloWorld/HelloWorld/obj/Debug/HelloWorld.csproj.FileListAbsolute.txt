@@ -1,0 +1,16 @@
+G:\wipro\Day1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+G:\wipro\Day1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+G:\wipro\Day1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+G:\wipro\Day1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+G:\wipro\Day1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+G:\wipro\Day1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+G:\wipro\Day1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+G:\wipro\Day1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe.config
+C:\Users\Neshat\Wipro-data\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Neshat\Wipro-data\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe.config
+C:\Users\Neshat\Wipro-data\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Neshat\Wipro-data\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Neshat\Wipro-data\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Neshat\Wipro-data\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Neshat\Wipro-data\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Neshat\Wipro-data\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
