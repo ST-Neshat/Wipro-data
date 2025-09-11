@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Secure Login App</h1>
+    <p>This is a secure ASP.NET Core MVC application with role-based authentication.</p>
+
+    @if (!User.Identity.IsAuthenticated)
+    {
+        <div class="mt-4">
+            <a asp-controller="Account" asp-action="Login" class="btn btn-primary me-2">Login</a>
+            <a asp-controller="Account" asp-action="Register" class="btn btn-secondary">Register</a>
+        </div>
+    }
+    else
+    {
+        <div class="mt-4">
+            <p>Welcome, @User.Identity.Name!</p>
+            <a asp-controller="Home" asp-action="UserProfile" class="btn btn-info me-2">View Profile</a>
+            <form asp-controller="Account" asp-action="Logout" method="post" class="d-inline">
+                @Html.AntiForgeryToken()
+                <button type="submit" class="btn btn-outline-danger">Logout</button>
+            </form>
+        </div>
+    }
+</div>

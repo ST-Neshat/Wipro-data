@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<h2>@ViewBag.Message</h2>
+
+<h3>User Details</h3>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Email</th>
+            <th>Roles</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in ViewBag.Users)
+        {
+            <tr>
+                <td>@user.UserName</td>
+                <td>@user.Email</td>
+                <td>@user.Roles</td>
+            </tr>
+        }
+    </tbody>
+</table>
