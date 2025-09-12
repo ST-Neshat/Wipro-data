@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\MovieCatalog.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87FDBBB9-7A96-455A-BBE9-E404CC79A847}|MovieCatalog.Api\\MovieCatalog.Api.csproj|g:\\moviecatalog.api\\moviecatalog.api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FDBBB9-7A96-455A-BBE9-E404CC79A847}|MovieCatalog.Api\\MovieCatalog.Api.csproj|solutionrelative:moviecatalog.api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FDBBB9-7A96-455A-BBE9-E404CC79A847}|MovieCatalog.Api\\MovieCatalog.Api.csproj|g:\\moviecatalog.api\\moviecatalog.api\\controllers\\directorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FDBBB9-7A96-455A-BBE9-E404CC79A847}|MovieCatalog.Api\\MovieCatalog.Api.csproj|solutionrelative:moviecatalog.api\\controllers\\directorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FDBBB9-7A96-455A-BBE9-E404CC79A847}|MovieCatalog.Api\\MovieCatalog.Api.csproj|g:\\moviecatalog.api\\moviecatalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FDBBB9-7A96-455A-BBE9-E404CC79A847}|MovieCatalog.Api\\MovieCatalog.Api.csproj|solutionrelative:moviecatalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FDBBB9-7A96-455A-BBE9-E404CC79A847}|MovieCatalog.Api\\MovieCatalog.Api.csproj|g:\\moviecatalog.api\\moviecatalog.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FDBBB9-7A96-455A-BBE9-E404CC79A847}|MovieCatalog.Api\\MovieCatalog.Api.csproj|solutionrelative:moviecatalog.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FDBBB9-7A96-455A-BBE9-E404CC79A847}|MovieCatalog.Api\\MovieCatalog.Api.csproj|g:\\moviecatalog.api\\moviecatalog.api\\models\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FDBBB9-7A96-455A-BBE9-E404CC79A847}|MovieCatalog.Api\\MovieCatalog.Api.csproj|solutionrelative:moviecatalog.api\\models\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FDBBB9-7A96-455A-BBE9-E404CC79A847}|MovieCatalog.Api\\MovieCatalog.Api.csproj|g:\\moviecatalog.api\\moviecatalog.api\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FDBBB9-7A96-455A-BBE9-E404CC79A847}|MovieCatalog.Api\\MovieCatalog.Api.csproj|solutionrelative:moviecatalog.api\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "G:\\MovieCatalog.Api\\MovieCatalog.Api\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MovieCatalog.Api\\Controllers\\MoviesController.cs",
+              "ToolTip": "G:\\MovieCatalog.Api\\MovieCatalog.Api\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MovieCatalog.Api\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAgwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:32:31.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DirectorsController.cs",
+              "DocumentMoniker": "G:\\MovieCatalog.Api\\MovieCatalog.Api\\Controllers\\DirectorsController.cs",
+              "RelativeDocumentMoniker": "MovieCatalog.Api\\Controllers\\DirectorsController.cs",
+              "ToolTip": "G:\\MovieCatalog.Api\\MovieCatalog.Api\\Controllers\\DirectorsController.cs",
+              "RelativeToolTip": "MovieCatalog.Api\\Controllers\\DirectorsController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAUwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:25:51.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\MovieCatalog.Api\\MovieCatalog.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MovieCatalog.Api\\Program.cs",
+              "ToolTip": "G:\\MovieCatalog.Api\\MovieCatalog.Api\\Program.cs",
+              "RelativeToolTip": "MovieCatalog.Api\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T13:30:35.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "G:\\MovieCatalog.Api\\MovieCatalog.Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MovieCatalog.Api\\Data\\AppDbContext.cs",
+              "ToolTip": "G:\\MovieCatalog.Api\\MovieCatalog.Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MovieCatalog.Api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:32:00.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "G:\\MovieCatalog.Api\\MovieCatalog.Api\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieCatalog.Api\\Models\\Movie.cs",
+              "ToolTip": "G:\\MovieCatalog.Api\\MovieCatalog.Api\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieCatalog.Api\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:29:38.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Director.cs",
+              "DocumentMoniker": "G:\\MovieCatalog.Api\\MovieCatalog.Api\\Models\\Director.cs",
+              "RelativeDocumentMoniker": "MovieCatalog.Api\\Models\\Director.cs",
+              "ToolTip": "G:\\MovieCatalog.Api\\MovieCatalog.Api\\Models\\Director.cs",
+              "RelativeToolTip": "MovieCatalog.Api\\Models\\Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:23:05.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
