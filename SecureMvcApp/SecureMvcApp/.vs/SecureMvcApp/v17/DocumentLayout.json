@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\SecureMvcApp\\SecureMvcApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF40A31-CC39-4DA8-BAD6-C9BD91878DF8}|SecureMvcApp\\SecureMvcApp.csproj|g:\\securemvcapp\\securemvcapp\\securemvcapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF40A31-CC39-4DA8-BAD6-C9BD91878DF8}|SecureMvcApp\\SecureMvcApp.csproj|solutionrelative:securemvcapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF40A31-CC39-4DA8-BAD6-C9BD91878DF8}|SecureMvcApp\\SecureMvcApp.csproj|g:\\securemvcapp\\securemvcapp\\securemvcapp\\data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF40A31-CC39-4DA8-BAD6-C9BD91878DF8}|SecureMvcApp\\SecureMvcApp.csproj|solutionrelative:securemvcapp\\data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF40A31-CC39-4DA8-BAD6-C9BD91878DF8}|SecureMvcApp\\SecureMvcApp.csproj|g:\\securemvcapp\\securemvcapp\\securemvcapp\\views\\error\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBF40A31-CC39-4DA8-BAD6-C9BD91878DF8}|SecureMvcApp\\SecureMvcApp.csproj|solutionrelative:securemvcapp\\views\\error\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF40A31-CC39-4DA8-BAD6-C9BD91878DF8}|SecureMvcApp\\SecureMvcApp.csproj|g:\\securemvcapp\\securemvcapp\\securemvcapp\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF40A31-CC39-4DA8-BAD6-C9BD91878DF8}|SecureMvcApp\\SecureMvcApp.csproj|solutionrelative:securemvcapp\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF40A31-CC39-4DA8-BAD6-C9BD91878DF8}|SecureMvcApp\\SecureMvcApp.csproj|g:\\securemvcapp\\securemvcapp\\securemvcapp\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBF40A31-CC39-4DA8-BAD6-C9BD91878DF8}|SecureMvcApp\\SecureMvcApp.csproj|solutionrelative:securemvcapp\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF40A31-CC39-4DA8-BAD6-C9BD91878DF8}|SecureMvcApp\\SecureMvcApp.csproj|g:\\securemvcapp\\securemvcapp\\securemvcapp\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBF40A31-CC39-4DA8-BAD6-C9BD91878DF8}|SecureMvcApp\\SecureMvcApp.csproj|solutionrelative:securemvcapp\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF40A31-CC39-4DA8-BAD6-C9BD91878DF8}|SecureMvcApp\\SecureMvcApp.csproj|g:\\securemvcapp\\securemvcapp\\securemvcapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBF40A31-CC39-4DA8-BAD6-C9BD91878DF8}|SecureMvcApp\\SecureMvcApp.csproj|solutionrelative:securemvcapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF40A31-CC39-4DA8-BAD6-C9BD91878DF8}|SecureMvcApp\\SecureMvcApp.csproj|g:\\securemvcapp\\securemvcapp\\securemvcapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF40A31-CC39-4DA8-BAD6-C9BD91878DF8}|SecureMvcApp\\SecureMvcApp.csproj|solutionrelative:securemvcapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF40A31-CC39-4DA8-BAD6-C9BD91878DF8}|SecureMvcApp\\SecureMvcApp.csproj|g:\\securemvcapp\\securemvcapp\\securemvcapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF40A31-CC39-4DA8-BAD6-C9BD91878DF8}|SecureMvcApp\\SecureMvcApp.csproj|solutionrelative:securemvcapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF40A31-CC39-4DA8-BAD6-C9BD91878DF8}|SecureMvcApp\\SecureMvcApp.csproj|g:\\securemvcapp\\securemvcapp\\securemvcapp\\infrastructure\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF40A31-CC39-4DA8-BAD6-C9BD91878DF8}|SecureMvcApp\\SecureMvcApp.csproj|solutionrelative:securemvcapp\\infrastructure\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF40A31-CC39-4DA8-BAD6-C9BD91878DF8}|SecureMvcApp\\SecureMvcApp.csproj|g:\\securemvcapp\\securemvcapp\\securemvcapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF40A31-CC39-4DA8-BAD6-C9BD91878DF8}|SecureMvcApp\\SecureMvcApp.csproj|solutionrelative:securemvcapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "G:\\SecureMvcApp\\SecureMvcApp\\SecureMvcApp\\Views\\Error\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "SecureMvcApp\\Views\\Error\\AccessDenied.cshtml",
+              "ToolTip": "G:\\SecureMvcApp\\SecureMvcApp\\SecureMvcApp\\Views\\Error\\AccessDenied.cshtml",
+              "RelativeToolTip": "SecureMvcApp\\Views\\Error\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T16:41:05.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "G:\\SecureMvcApp\\SecureMvcApp\\SecureMvcApp\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "SecureMvcApp\\Controllers\\ErrorController.cs",
+              "ToolTip": "G:\\SecureMvcApp\\SecureMvcApp\\SecureMvcApp\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "SecureMvcApp\\Controllers\\ErrorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T16:37:51.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "G:\\SecureMvcApp\\SecureMvcApp\\SecureMvcApp\\Views\\User\\Profile.cshtml",
+              "RelativeDocumentMoniker": "SecureMvcApp\\Views\\User\\Profile.cshtml",
+              "ToolTip": "G:\\SecureMvcApp\\SecureMvcApp\\SecureMvcApp\\Views\\User\\Profile.cshtml",
+              "RelativeToolTip": "SecureMvcApp\\Views\\User\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T14:39:20.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "G:\\SecureMvcApp\\SecureMvcApp\\SecureMvcApp\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "SecureMvcApp\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "G:\\SecureMvcApp\\SecureMvcApp\\SecureMvcApp\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "SecureMvcApp\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T14:38:02.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "G:\\SecureMvcApp\\SecureMvcApp\\SecureMvcApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SecureMvcApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "G:\\SecureMvcApp\\SecureMvcApp\\SecureMvcApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "SecureMvcApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T14:30:46.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "G:\\SecureMvcApp\\SecureMvcApp\\SecureMvcApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SecureMvcApp\\Controllers\\UserController.cs",
+              "ToolTip": "G:\\SecureMvcApp\\SecureMvcApp\\SecureMvcApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SecureMvcApp\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T14:17:19.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "G:\\SecureMvcApp\\SecureMvcApp\\SecureMvcApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "SecureMvcApp\\Controllers\\AdminController.cs",
+              "ToolTip": "G:\\SecureMvcApp\\SecureMvcApp\\SecureMvcApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "SecureMvcApp\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T14:16:36.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "G:\\SecureMvcApp\\SecureMvcApp\\SecureMvcApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SecureMvcApp\\Controllers\\AccountController.cs",
+              "ToolTip": "G:\\SecureMvcApp\\SecureMvcApp\\SecureMvcApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SecureMvcApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T14:11:31.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IdentitySeeder.cs",
+              "DocumentMoniker": "G:\\SecureMvcApp\\SecureMvcApp\\SecureMvcApp\\Infrastructure\\IdentitySeeder.cs",
+              "RelativeDocumentMoniker": "SecureMvcApp\\Infrastructure\\IdentitySeeder.cs",
+              "ToolTip": "G:\\SecureMvcApp\\SecureMvcApp\\SecureMvcApp\\Infrastructure\\IdentitySeeder.cs",
+              "RelativeToolTip": "SecureMvcApp\\Infrastructure\\IdentitySeeder.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T14:05:05.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\SecureMvcApp\\SecureMvcApp\\SecureMvcApp\\Data\\Program.cs",
+              "RelativeDocumentMoniker": "SecureMvcApp\\Data\\Program.cs",
+              "ToolTip": "G:\\SecureMvcApp\\SecureMvcApp\\SecureMvcApp\\Data\\Program.cs",
+              "RelativeToolTip": "SecureMvcApp\\Data\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:50:04.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "G:\\SecureMvcApp\\SecureMvcApp\\SecureMvcApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SecureMvcApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "G:\\SecureMvcApp\\SecureMvcApp\\SecureMvcApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SecureMvcApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:23:23.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
