@@ -1,0 +1,22 @@
+﻿@model RoleBasedProducts.Models.Products
+
+@{
+    ViewData["Title"] = "Create Products";
+}
+
+<h2>Create Product</h2>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="PriceStored" class="control-label"></label>
+        <input asp-for="PriceStored" class="form-control" />
+        <span asp-validation-for="PriceStored" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-success">Save</button> |
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</form>

@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\RoleBasedProducts\\RoleBasedProducts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63D0F133-4303-477D-B6DE-5019B215A310}|RoleBasedProducts\\RoleBasedProducts.csproj|g:\\rolebasedproducts\\rolebasedproducts\\rolebasedproducts\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D0F133-4303-477D-B6DE-5019B215A310}|RoleBasedProducts\\RoleBasedProducts.csproj|solutionrelative:rolebasedproducts\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D0F133-4303-477D-B6DE-5019B215A310}|RoleBasedProducts\\RoleBasedProducts.csproj|g:\\rolebasedproducts\\rolebasedproducts\\rolebasedproducts\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D0F133-4303-477D-B6DE-5019B215A310}|RoleBasedProducts\\RoleBasedProducts.csproj|solutionrelative:rolebasedproducts\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D0F133-4303-477D-B6DE-5019B215A310}|RoleBasedProducts\\RoleBasedProducts.csproj|g:\\rolebasedproducts\\rolebasedproducts\\rolebasedproducts\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63D0F133-4303-477D-B6DE-5019B215A310}|RoleBasedProducts\\RoleBasedProducts.csproj|solutionrelative:rolebasedproducts\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D0F133-4303-477D-B6DE-5019B215A310}|RoleBasedProducts\\RoleBasedProducts.csproj|g:\\rolebasedproducts\\rolebasedproducts\\rolebasedproducts\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63D0F133-4303-477D-B6DE-5019B215A310}|RoleBasedProducts\\RoleBasedProducts.csproj|solutionrelative:rolebasedproducts\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D0F133-4303-477D-B6DE-5019B215A310}|RoleBasedProducts\\RoleBasedProducts.csproj|g:\\rolebasedproducts\\rolebasedproducts\\rolebasedproducts\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63D0F133-4303-477D-B6DE-5019B215A310}|RoleBasedProducts\\RoleBasedProducts.csproj|solutionrelative:rolebasedproducts\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D0F133-4303-477D-B6DE-5019B215A310}|RoleBasedProducts\\RoleBasedProducts.csproj|g:\\rolebasedproducts\\rolebasedproducts\\rolebasedproducts\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63D0F133-4303-477D-B6DE-5019B215A310}|RoleBasedProducts\\RoleBasedProducts.csproj|solutionrelative:rolebasedproducts\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D0F133-4303-477D-B6DE-5019B215A310}|RoleBasedProducts\\RoleBasedProducts.csproj|g:\\rolebasedproducts\\rolebasedproducts\\rolebasedproducts\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63D0F133-4303-477D-B6DE-5019B215A310}|RoleBasedProducts\\RoleBasedProducts.csproj|solutionrelative:rolebasedproducts\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D0F133-4303-477D-B6DE-5019B215A310}|RoleBasedProducts\\RoleBasedProducts.csproj|g:\\rolebasedproducts\\rolebasedproducts\\rolebasedproducts\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63D0F133-4303-477D-B6DE-5019B215A310}|RoleBasedProducts\\RoleBasedProducts.csproj|solutionrelative:rolebasedproducts\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D0F133-4303-477D-B6DE-5019B215A310}|RoleBasedProducts\\RoleBasedProducts.csproj|g:\\rolebasedproducts\\rolebasedproducts\\rolebasedproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D0F133-4303-477D-B6DE-5019B215A310}|RoleBasedProducts\\RoleBasedProducts.csproj|solutionrelative:rolebasedproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D0F133-4303-477D-B6DE-5019B215A310}|RoleBasedProducts\\RoleBasedProducts.csproj|g:\\rolebasedproducts\\rolebasedproducts\\rolebasedproducts\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D0F133-4303-477D-B6DE-5019B215A310}|RoleBasedProducts\\RoleBasedProducts.csproj|solutionrelative:rolebasedproducts\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "G:\\RoleBasedProducts\\RoleBasedProducts\\RoleBasedProducts\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "RoleBasedProducts\\Views\\Products\\Details.cshtml",
+              "ToolTip": "G:\\RoleBasedProducts\\RoleBasedProducts\\RoleBasedProducts\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "RoleBasedProducts\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T09:12:30.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "G:\\RoleBasedProducts\\RoleBasedProducts\\RoleBasedProducts\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RoleBasedProducts\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "G:\\RoleBasedProducts\\RoleBasedProducts\\RoleBasedProducts\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "RoleBasedProducts\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T08:46:09.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "G:\\RoleBasedProducts\\RoleBasedProducts\\RoleBasedProducts\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RoleBasedProducts\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "G:\\RoleBasedProducts\\RoleBasedProducts\\RoleBasedProducts\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "RoleBasedProducts\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T08:45:48.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "G:\\RoleBasedProducts\\RoleBasedProducts\\RoleBasedProducts\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "RoleBasedProducts\\Views\\Products\\Create.cshtml",
+              "ToolTip": "G:\\RoleBasedProducts\\RoleBasedProducts\\RoleBasedProducts\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "RoleBasedProducts\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T08:41:34.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\RoleBasedProducts\\RoleBasedProducts\\RoleBasedProducts\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "RoleBasedProducts\\Views\\Products\\Index.cshtml",
+              "ToolTip": "G:\\RoleBasedProducts\\RoleBasedProducts\\RoleBasedProducts\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "RoleBasedProducts\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T08:25:37.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "G:\\RoleBasedProducts\\RoleBasedProducts\\RoleBasedProducts\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RoleBasedProducts\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\RoleBasedProducts\\RoleBasedProducts\\RoleBasedProducts\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RoleBasedProducts\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T07:59:39.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "G:\\RoleBasedProducts\\RoleBasedProducts\\RoleBasedProducts\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "RoleBasedProducts\\Controllers\\ProductsController.cs",
+              "ToolTip": "G:\\RoleBasedProducts\\RoleBasedProducts\\RoleBasedProducts\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "RoleBasedProducts\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T16:46:36.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "G:\\RoleBasedProducts\\RoleBasedProducts\\RoleBasedProducts\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RoleBasedProducts\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "G:\\RoleBasedProducts\\RoleBasedProducts\\RoleBasedProducts\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RoleBasedProducts\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T15:52:47.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.cs",
+              "DocumentMoniker": "G:\\RoleBasedProducts\\RoleBasedProducts\\RoleBasedProducts\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "RoleBasedProducts\\Models\\Products.cs",
+              "ToolTip": "G:\\RoleBasedProducts\\RoleBasedProducts\\RoleBasedProducts\\Models\\Products.cs",
+              "RelativeToolTip": "RoleBasedProducts\\Models\\Products.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T14:43:36.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\RoleBasedProducts\\RoleBasedProducts\\RoleBasedProducts\\Program.cs",
+              "RelativeDocumentMoniker": "RoleBasedProducts\\Program.cs",
+              "ToolTip": "G:\\RoleBasedProducts\\RoleBasedProducts\\RoleBasedProducts\\Program.cs",
+              "RelativeToolTip": "RoleBasedProducts\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T02:53:52.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
