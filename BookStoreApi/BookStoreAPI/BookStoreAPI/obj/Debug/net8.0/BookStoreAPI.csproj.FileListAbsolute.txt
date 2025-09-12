@@ -1,0 +1,8 @@
+G:\bookstore\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.csproj.AssemblyReference.cache
+G:\bookstore\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+G:\bookstore\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\bookstore\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.AssemblyInfoInputs.cache
+G:\bookstore\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.AssemblyInfo.cs
+G:\bookstore\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.csproj.CoreCompileInputs.cache
+G:\bookstore\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\bookstore\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.MvcApplicationPartsAssemblyInfo.cache
