@@ -1,0 +1,151 @@
+/* ───────────────────────────────────────────────
+   RESET + GLOBAL BASE
+──────────────────────────────────────────────── */
+* { box-sizing:border-box; margin:0; padding:0;
+    font-family:"Segoe UI", Roboto, Arial, sans-serif; }
+
+body { background:#f5f6fb; color:#333; }
+
+/* ───────────────────────────────────────────────
+   LAYOUT UTILITIES
+──────────────────────────────────────────────── */
+.center-col {
+  display:flex; flex-direction:column; 
+  align-items:center; justify-content:center;
+}
+
+/* generic card wrapper */
+.card {
+  background:#fff; border:1px solid #e3e6f0; border-radius:12px;
+  box-shadow:0 6px 20px rgba(0,0,0,.07);
+  padding:28px; max-width:400px; width:90%;
+}
+
+/* narrower version used only by the Register page */
+.card.register       { max-width:340px; }
+.card.register .field{ margin:4px 0; padding:8px 12px; font-size:14px; }
+.card.register label { margin-top:8px; }
+.card.register .btn  { margin-top:8px; }
+
+.field {
+  width:100%; padding:10px 14px; margin:6px 0;
+  border:1px solid #c5c9d4; border-radius:6px; font-size:15px;
+}
+
+.btn {
+  display:block; width:100%; padding:10px 0;
+  border:none; border-radius:6px;
+  background:linear-gradient(90deg,#2152ff 0%,#21d4fd 100%);
+  color:#fff; font-weight:600; cursor:pointer;
+  transition:opacity .2s; margin-top:10px;
+}
+.btn:disabled { opacity:.55; cursor:not-allowed; }
+
+.link {
+  color:#2152ff; font-size:14px; text-align:center;
+  margin-top:14px; text-decoration:none;
+}
+
+label {
+  font-size:13px; font-weight:600; margin-top:12px;
+  display:block; color:#4b5563;
+}
+
+/* ───────────────────────────────────────────────
+   TOP NAV BAR
+──────────────────────────────────────────────── */
+.navbar{
+  background:#f0f2f8; padding:8px 22px;
+  display:flex; gap:24px; font-size:14px;
+  border-bottom:1px solid #e0e4ed; margin-bottom:36px;
+}
+.navbar a{
+  color:#374151; text-decoration:none; position:relative;
+}
+.navbar a:hover::after{
+  content:''; position:absolute; left:0; bottom:-2px;
+  height:2px; width:100%; background:#2152ff;
+}
+
+/* ───────────────────────────────────────────────
+   DASHBOARD / PROFILE
+──────────────────────────────────────────────── */
+.profile{
+  background:#fff; border-radius:12px;
+  box-shadow:0 4px 16px rgba(0,0,0,.06);
+  padding:28px; max-width:760px; width:95%;
+}
+
+.avatar{
+  height:56px; width:56px; border-radius:50%; background:#2152ff; color:#fff;
+  font-size:24px; font-weight:700; margin-right:16px;
+  display:inline-flex; align-items:center; justify-content:center;
+}
+
+.info-block{ display:flex; gap:22px; margin-top:26px; flex-wrap:wrap; }
+
+.info-tile{
+  background:#fafbff; border:1px solid #e6e8f1;
+  border-radius:10px; padding:14px 18px; flex:1 1 150px;
+}
+.info-label{
+  font-size:11px; font-weight:700; color:#6b7280;
+  text-transform:uppercase; letter-spacing:.5px;
+}
+.info-value{ margin-top:4px; font-weight:600; color:#374151; }
+
+.wallet-section{ margin-top:42px; text-align:center; }
+.wallet-grid{
+  display:flex; gap:22px; flex-wrap:wrap;
+  justify-content:center; margin-top:22px;
+}
+.wallet-card{
+  width:170px; border-radius:12px; padding:18px 0;
+  background:linear-gradient(135deg,#5d44ff 0%,#9a56ff 100%);
+  color:#fff; font-weight:700; font-size:22px;
+  box-shadow:0 6px 20px rgba(0,0,0,.07);
+  display:flex; flex-direction:column; align-items:center;
+}
+.wallet-card small{
+  font-size:12px; font-weight:600;
+  margin-bottom:6px; letter-spacing:.4px;
+}
+
+/* ───────────────────────────────────────────────
+   SHOW-ALL TABLE
+──────────────────────────────────────────────── */
+.table-wrap{ max-width:1000px; width:95%; margin:auto; }
+
+table{
+  width:100%; border-collapse:collapse; background:#fff;
+  border:1px solid #d7dbe7; border-radius:8px; overflow:hidden;
+}
+thead{ background:#2152ff; color:#fff; }
+th,td{
+  padding:10px 12px; font-size:14px; text-align:left;
+  border-bottom:1px solid #eef1f7;
+}
+tbody tr:nth-child(even){ background:#fafbff; }
+
+/* ───────────────────────────────────────────────
+   TWO-COLUMN GRID FOR OPTIONAL FIELDS
+──────────────────────────────────────────────── */
+.form-2col{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:14px 16px;
+}
+.form-2col label{ grid-column:1 / span 2; }   /* label spans both columns */
+
+
+/* splash screen */
+.intro{
+  height:100vh; background:#000;
+  color:#fff; display:flex; align-items:center; justify-content:center;
+  flex-direction:column; text-align:center;
+}
+.intro h1{ font-size:48px; font-weight:600; margin:0; }
+.byline{
+  position:absolute; right:40px; bottom:40px;
+  font-size:24px; line-height:1.3; text-align:right;
+}
